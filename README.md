@@ -1,2 +1,2 @@
 # Pratica
- Práticas de estudo em Python
+## Práticas de criação de diretório em git e github.
